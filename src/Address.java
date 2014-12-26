@@ -1,5 +1,5 @@
 /**
- * Created by ALEX on 16.10.2014.
+ * Created by Smakhtin Ilya on 24.12.2014.
  */
 public class Address {
         public String name;
